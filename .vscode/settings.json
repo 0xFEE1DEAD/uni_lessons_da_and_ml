@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit"
+        },
+    },
+    "cSpell.language": "en,ru",
+    "python.defaultInterpreterPath": "./.venv/bin/python",
+    "notebook.formatOnSave.enabled": true
+}
