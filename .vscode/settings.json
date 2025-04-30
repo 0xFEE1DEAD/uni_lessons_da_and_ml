@@ -7,6 +7,5 @@
         },
     },
     "cSpell.language": "en,ru",
-    "python.defaultInterpreterPath": "./.venv/bin/python",
     "notebook.formatOnSave.enabled": true
 }
