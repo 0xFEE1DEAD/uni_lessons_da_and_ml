@@ -9,6 +9,7 @@ dependencies = [
     "pandas>=2.2.3",
     "plotly>=6.0.1",
     "polars>=1.28.0",
+    "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
 ]
 
