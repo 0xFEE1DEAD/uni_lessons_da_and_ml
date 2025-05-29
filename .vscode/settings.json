@@ -8,6 +8,9 @@
     },
     "cSpell.language": "en,ru",
     "notebook.formatOnSave.enabled": true,
+    "notebook.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
     "cSpell.words": [
         "гиперпараметра"
     ]
