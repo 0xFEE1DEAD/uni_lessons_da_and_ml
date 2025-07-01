@@ -10,6 +10,7 @@ dependencies = [
     "plotly>=6.0.1",
     "polars>=1.28.0",
     "scikit-learn>=1.6.1",
+    "scipy>=1.15.3",
     "seaborn>=0.13.2",
 ]
 
