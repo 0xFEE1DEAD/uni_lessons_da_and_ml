@@ -5,7 +5,9 @@ description = "Learning about data analysis and machine learning"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "ipywidgets>=8.1.7",
     "matplotlib>=3.10.1",
+    "notebook>=7.4.4",
     "pandas>=2.2.3",
     "plotly>=6.0.1",
     "polars>=1.28.0",
