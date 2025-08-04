@@ -4,7 +4,10 @@ This project requires uv package manager. For install it please visit this page 
 
 For create virtual environment and install dependencies use command
 ```
-uv sync
+# for install cuda torch
+uv sync --extra cu128
+# for install cpu torch
+uv sync --extra cpu
 ```
 For run scripts use command
 ```
