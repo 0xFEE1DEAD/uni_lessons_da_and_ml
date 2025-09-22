@@ -2,3 +2,4 @@ datasets
 logs
 checkpoints
 lightning_logs
+*.json
