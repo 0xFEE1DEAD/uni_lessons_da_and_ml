@@ -13,3 +13,8 @@ For run scripts use command
 ```
 uv run <file>
 ```
+
+you may need to install additional dependency spacy
+```
+uv run -- spacy download ru_core_news_sm
+```
