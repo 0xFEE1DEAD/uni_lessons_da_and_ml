@@ -6,8 +6,11 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
   "catboost>=1.2.8",
+  "faster-whisper>=1.2.1",
   "gensim>=4.4.0",
+  "intervaltree>=3.1.0",
   "ipywidgets>=8.1.7",
+  "librosa>=0.11.0",
   "lightgbm>=4.6.0",
   "lightning[cpu]>=2.5.3",
   "matplotlib>=3.10.1",
@@ -19,6 +22,7 @@ dependencies = [
   "polars>=1.28.0",
   "protobuf>=6.32.1",
   "pymorphy3>=2.0.6",
+  "resemblyzer>=0.1.4",
   "sacrebleu>=2.5.1",
   "sacremoses[cu128]>=0.1.1",
   "scikit-learn>=1.6.1",
@@ -26,6 +30,8 @@ dependencies = [
   "seaborn>=0.13.2",
   "sentence-transformers[cpu]>=5.1.2",
   "sentencepiece[cu128]>=0.2.1",
+  "sherpa-onnx>=1.12.18",
+  "silero-vad>=6.2.0",
   "slovnet>=0.6.0",
   "spacy>=3.8.7",
   "statsmodels>=0.14.5",
@@ -36,6 +42,7 @@ dependencies = [
   "tqdm>=4.67.1",
   "transformers>=4.56.2",
   "xgboost>=3.0.2",
+  "xlsxwriter>=3.2.9",
 ]
 
 [dependency-groups]

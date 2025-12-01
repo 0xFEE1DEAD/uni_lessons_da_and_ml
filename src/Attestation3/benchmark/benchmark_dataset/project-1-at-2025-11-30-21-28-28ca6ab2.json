@@ -1,0 +1,928 @@
+[
+{
+  "audio": "\/data\/upload\/1\/f0a76412-public_2.wav",
+  "id": 5,
+  "label": [
+    {
+      "start": 0,
+      "end": 1.4329273588256226,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 1.5171312696903676,
+      "end": 3.201209486985268,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 3.285413397850013,
+      "end": 4.8010837934154225,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 5.137899436874403,
+      "end": 7.242997208493029,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 7.242997208493029,
+      "end": 12.46363968210722,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 13.305678790754667,
+      "end": 19.620972105610544,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 19.87358383820478,
+      "end": 20.943514292452424,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 20.990842479163447,
+      "end": 21.90163521766581,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 22.32574481345699,
+      "end": 28.645673052377962,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 29.579641461531157,
+      "end": 33.758163872522914,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 34.4835529432347,
+      "end": 38.43263901551975,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 38.64276215389941,
+      "end": 40.248816524846326,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 40.79112059815308,
+      "end": 45.5745206293716,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 45.747565410575675,
+      "end": 49.251684038096215,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 50.35869468232936,
+      "end": 53.59706924087466,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 55.65272500252499,
+      "end": 58.71265020702027,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 59.56086939860261,
+      "end": 60.38127812488719,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 61.00855824273358,
+      "end": 62.232218715836,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 62.7598469295868,
+      "end": 69.76113156830343,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 70.11339293563242,
+      "end": 70.64874439261472,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 71.1354275353259,
+      "end": 73.58274848153073,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 73.95201116846559,
+      "end": 78.17224927740402,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 78.47121177935517,
+      "end": 82.12133534968906,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 82.49214608010242,
+      "end": 83.27779172476475,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 83.60379067027445,
+      "end": 84.64668311894128,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 84.98040870251467,
+      "end": 89.46484623178202,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 90.53709039956074,
+      "end": 91.68427209309425,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 91.68736139038685,
+      "end": 92.27833377796472,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 94.15940350459685,
+      "end": 96.7179663119928,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 96.88715116899724,
+      "end": 100.48165380873556,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 100.84627915489934,
+      "end": 101.82659805664615,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 103.07111637872191,
+      "end": 107.02020245100695,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 107.31221233663366,
+      "end": 110.3435530540919,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 110.65024219410674,
+      "end": 111.94342883045361,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 112.3598117881811,
+      "end": 113.68080888982576,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 114.34208146238733,
+      "end": 117.18570153908554,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 117.42209049411669,
+      "end": 118.84737684062802,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 119.901852456726,
+      "end": 120.71530856668612,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 121.28697114876914,
+      "end": 122.3159583647871,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 122.62882609938714,
+      "end": 123.53266622156505,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 124.43109498123262,
+      "end": 128.0812185515665,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 128.24112872702878,
+      "end": 129.7915621673801,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 132.31845798011082,
+      "end": 136.60126963596926,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 137.01842661543597,
+      "end": 139.0207801168763,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 139.6542422241401,
+      "end": 142.727298639545,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 142.81999113765178,
+      "end": 143.3901056762563,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 143.52915800274522,
+      "end": 147.07499232821243,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 147.48906680005095,
+      "end": 148.12870750189992,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 149.16077722554607,
+      "end": 153.72169353438233,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 154.94072345637804,
+      "end": 158.16673743092076,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 158.45179470022302,
+      "end": 161.5665668135746,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 162.55151626642814,
+      "end": 165.1618434750522,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 168.50914801406748,
+      "end": 169.14878871591645,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 170.14377329272264,
+      "end": 173.20292447547868,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 173.41769513912598,
+      "end": 174.44668235514393,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 174.77885989523884,
+      "end": 176.37100903353686,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 177.02455203873146,
+      "end": 183.37229074295024,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 183.86592943128912,
+      "end": 187.47433730367635,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 187.87758612119092,
+      "end": 189.78955561041343,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 5,
+  "created_at": "2025-11-30T12:59:49.824865Z",
+  "updated_at": "2025-11-30T12:59:49.824873Z",
+  "lead_time": 597.445
+},
+{
+  "audio": "\/data\/upload\/1\/3827885e-public_1.wav",
+  "id": 6,
+  "label": [
+    {
+      "start": 0,
+      "end": 18.073371992671216,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 18.86757011473223,
+      "end": 20.371849494328526,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 21.344114574282347,
+      "end": 41.401172968899594,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 42.73284936687086,
+      "end": 43.76519796071145,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 43.79032257178783,
+      "end": 44.734184143299224,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 47.809381810746565,
+      "end": 50.93592326637808,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 51.266931075953096,
+      "end": 52.14196940787513,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 52.1747415789868,
+      "end": 53.030116128169,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 53.06179853397746,
+      "end": 56.483296730706286,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 57.20211456601295,
+      "end": 59.37496255876316,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 59.629501969077616,
+      "end": 62.618396945530385,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 63.35797312960829,
+      "end": 73.16036882540897,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 77.2930420981374,
+      "end": 80.98000136185381,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 76.12304702511805,
+      "end": 77.09640427073919,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 75.08086653990755,
+      "end": 75.9755686545694,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 82.10520564069283,
+      "end": 84.44519578673152,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 87.95081234312028,
+      "end": 90.18265168408995,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 90.30063438052888,
+      "end": 91.87373699971455,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 92.6723045320119,
+      "end": 94.56985956640463,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 94.86699583810835,
+      "end": 95.7616979527702,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 96.26531354469846,
+      "end": 97.8089204897744,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 98.0055583171726,
+      "end": 99.97193659115469,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 100.38487602869093,
+      "end": 102.06612945294562,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 102.42007754226238,
+      "end": 103.56057694117199,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 104.13956396596528,
+      "end": 107.85601890379142,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 108.4044308896394,
+      "end": 113.92995383952905,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 114.6280125270533,
+      "end": 135.56010925359257,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 136.4176633333812,
+      "end": 145.0992234130121,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 145.35376762405477,
+      "end": 154.15331040012458,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 156.7467405897181,
+      "end": 158.81143777739928,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 160.58008365795177,
+      "end": 167.137955201682,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 168.13753402477505,
+      "end": 170.33987769163494,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 171.05215213439416,
+      "end": 173.48062930276205,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 173.92632890958944,
+      "end": 180.44487288784003,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 180.90806634825725,
+      "end": 183.07108244963754,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 184.83208557088292,
+      "end": 188.70585077062762,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 189.03358688392893,
+      "end": 191.59971053147555,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 192.3305349880303,
+      "end": 198.88840653176058,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 199.32319888409944,
+      "end": 203.2264597579539,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 204.61385100714267,
+      "end": 205.78384608016202,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 206.5736810878491,
+      "end": 208.69736962374975,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 209.6095463890886,
+      "end": 211.73323492498923,
+      "channel": 0,
+      "labels": [
+        "overlap"
+      ]
+    },
+    {
+      "start": 213.63952728472043,
+      "end": 224.24813807285378,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 224.76813374942762,
+      "end": 225.83980990874787,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 226.3335936093062,
+      "end": 227.96568757671133,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 228.54576916753606,
+      "end": 230.76777661713584,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 232.02625871248435,
+      "end": 234.72019694783978,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 236.60682552483118,
+      "end": 248.98517675954838,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 249.26484798203154,
+      "end": 251.26072193012337,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 251.72282082450917,
+      "end": 252.7944969838294,
+      "channel": 0,
+      "labels": [
+        "Speaker two"
+      ]
+    },
+    {
+      "start": 254.28784990602435,
+      "end": 256.68683140028253,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 257.1041298990316,
+      "end": 259.36546491411093,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 260.1673168028202,
+      "end": 262.3598285783102,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    },
+    {
+      "start": 263.3528496066712,
+      "end": 265.5158657080515,
+      "channel": 0,
+      "labels": [
+        "Speaker one"
+      ]
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 6,
+  "created_at": "2025-11-30T13:11:36.846748Z",
+  "updated_at": "2025-11-30T13:11:36.846758Z",
+  "lead_time": 605.584
+}
+]
